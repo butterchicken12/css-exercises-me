@@ -24,3 +24,19 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.top{
+  display: flex;
+  justify-content: center;
+  margin: 32px;
+}
+
+.bottom{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.cont{
+  max-width: 200px;
+}
